@@ -1,0 +1,15 @@
+/home/ivanaga/Projects/Study/dio/DIO.Interface/bin/Debug/net6.0/DIO.Interface
+/home/ivanaga/Projects/Study/dio/DIO.Interface/bin/Debug/net6.0/DIO.Interface.deps.json
+/home/ivanaga/Projects/Study/dio/DIO.Interface/bin/Debug/net6.0/DIO.Interface.runtimeconfig.json
+/home/ivanaga/Projects/Study/dio/DIO.Interface/bin/Debug/net6.0/DIO.Interface.dll
+/home/ivanaga/Projects/Study/dio/DIO.Interface/bin/Debug/net6.0/ref/DIO.Interface.dll
+/home/ivanaga/Projects/Study/dio/DIO.Interface/bin/Debug/net6.0/DIO.Interface.pdb
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.csproj.AssemblyReference.cache
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.AssemblyInfoInputs.cache
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.AssemblyInfo.cs
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.csproj.CoreCompileInputs.cache
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.dll
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/ref/DIO.Interface.dll
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.pdb
+/home/ivanaga/Projects/Study/dio/DIO.Interface/obj/Debug/net6.0/DIO.Interface.genruntimeconfig.cache
